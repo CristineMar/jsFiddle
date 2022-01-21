@@ -1,0 +1,11 @@
+#accordionExample {
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.28); 
+box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.28);
+    width: 50em;
+    margin: auto;
+    border-radius: 34px;
+}
+
+body {
+    background-color: aliceblue;
+}
